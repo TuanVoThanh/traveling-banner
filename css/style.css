@@ -1,0 +1,11 @@
+.animation {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+#Text,
+#Design {
+  visibility: hidden;
+}/*# sourceMappingURL=style.css.map */
